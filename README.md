@@ -1,6 +1,6 @@
 # LoRaWAN Docs
 
-A LoRaWAN network was stablished to collect data from various LoRa supported devices in the lab environment in HumaniSE lab at Monash University Clayton campus.
+A LoRaWAN network was stablished to collect data from various LoRa supported devices in the lab environment in [HumaniSE lab](https://www.monash.edu/it/humanise-lab) at [Monash University](https://www.monash.edu) Clayton campus.
 
 ## The components list
 - Chirpstack open source software
@@ -19,6 +19,7 @@ A LoRaWAN network was stablished to collect data from various LoRa supported dev
 - Ubuntu Server 20.04.3 LTS (Focal Fossa)
 
 ## Network
+Here is the network diagram at the early stage.
 ![plot](./network-diagram/whiteboard/network-20220928-142047.jpg)
 
 ## Some Issues faced:
