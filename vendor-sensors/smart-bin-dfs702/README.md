@@ -1,2 +1,2 @@
-#Configure Smart Recycle Bin DF701
+# Configure Smart Recycle Bin DF701
 
