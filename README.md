@@ -19,6 +19,7 @@ A LoRaWAN network was stablished to collect data from various LoRa supported dev
 
 - [PCR2](https://www.parametric.ch/products/pcr2-in/) People counter sensor.
 <img src="./network-diagram/assets/pcr2.jpeg" width="200" />
+
 - [DF702](https://www.elecomes.com/products/df702-2meter-dingtek-waste-bin-detector-for-waste-management-2-meter-version?variant=20400197369954) Smart Bin sensor.
 
   <img src="./network-diagram/assets/df702.jpeg" width="200" height="150" />
